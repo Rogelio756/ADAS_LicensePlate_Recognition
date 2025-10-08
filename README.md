@@ -25,16 +25,8 @@ Este repositorio contiene la implementación de un sistema de reconocimiento de 
 ---
 
 ## 📂 Estructura del proyecto
-ocr_license_plate/
-├── ocr_test.py # Script de OCR de prueba
-├── prub.jpg # Imagen de prueba
-├── ocr_resultado.png # Resultado visual del OCR
-├── yolov8n.pt # Modelo base YOLOv8n
-├── runs/ # Salidas del entrenamiento
-│ └── detect/
-│ └── placas_yolov8n2/
-│ ├── best.pt
-│ ├── best.onnx
-│ ├── results.png
-│ └── ...
-└── venv_lp/ # (NO subir al repo si es posible)
+
+
+📦 Modelos y salidas completas disponibles en [Google Drive](https://drive.google.com/drive/folders/13_CpJapaFlLDJLbMZGVGB3qp5Audu1Ic?usp=sharing).
+
+
